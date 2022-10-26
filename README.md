@@ -1,7 +1,3 @@
 # 2022_GitIntro
 Git Refresher
-Welcome to my git refresher project!
-
-Third commit via cmd
-
-Not quite a feature
+Welcome to my git refresher project. Please contribute if you can help with any outstanding bugs!
