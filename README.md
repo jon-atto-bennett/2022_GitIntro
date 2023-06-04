@@ -1,3 +1,6 @@
 # 2022_GitIntro
 Git Refresher
-Welcome to my git refresher project. Please contribute if you can help with any outstanding bugs!
+Welcome to my git refresher project.
+I'm now using it to work out how to connect with Replit.
+
+
